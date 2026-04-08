@@ -1,18 +1,18 @@
 # Base Documentos IA
 
-Site em GitHub Pages para artigos técnicos sobre organização documental, consulta com IA e desenvolvimento.
+Portal visual para artigos sobre organização documental, ingestão de arquivos, consulta com IA e desenvolvimento técnico com VS Code.
 
 ## Publicação
 
-No GitHub:
+Ative o GitHub Pages em:
 
 `Settings > Pages > Build and deployment > Deploy from a branch > main / root`
 
-## Estrutura
+## Arquivos principais
 
 - `index.md`
+- `artigos/obsidian-docling-copilot.md`
 - `sobre.md`
 - `repositorios.md`
-- `artigos/obsidian-docling-copilot.md`
-- `_config.yml`
 - `assets/main.scss`
+- `assets/figuras/*.svg`

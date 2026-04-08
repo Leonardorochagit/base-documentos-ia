@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">Fluxo documental com IA</title>
+  <desc id="desc">Fluxo em cinco etapas: arquivos brutos, ingestão, organização, consulta e desenvolvimento.</desc>
+  <rect width="1280" height="520" rx="30" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="60" y="70" font-size="38" font-weight="700" fill="#0f172a">Fluxo recomendado para documentos com IA</text>
+    <text x="60" y="105" font-size="20" fill="#475569">Um caminho simples para transformar acervo bruto em base consultável e evolutiva.</text>
+
+    <g transform="translate(50,180)">
+      <rect width="200" height="170" rx="24" fill="#ecfeff" stroke="#a5f3fc"/>
+      <text x="24" y="48" font-size="18" font-weight="700" fill="#155e75">1. Arquivos brutos</text>
+      <text x="24" y="86" font-size="28" font-weight="700" fill="#0f172a">PDF · DOCX</text>
+      <text x="24" y="120" font-size="20" fill="#475569">planilhas, imagens</text>
+    </g>
+
+    <g transform="translate(290,180)">
+      <rect width="220" height="170" rx="24" fill="#f8fafc" stroke="#cbd5e1"/>
+      <text x="24" y="48" font-size="18" font-weight="700" fill="#155e75">2. Ingestão</text>
+      <text x="24" y="86" font-size="28" font-weight="700" fill="#0f172a">Docling</text>
+      <text x="24" y="120" font-size="20" fill="#475569">MarkItDown, parsing</text>
+    </g>
+
+    <g transform="translate(550,180)">
+      <rect width="220" height="170" rx="24" fill="#f0fdfa" stroke="#99f6e4"/>
+      <text x="24" y="48" font-size="18" font-weight="700" fill="#155e75">3. Organização</text>
+      <text x="24" y="86" font-size="28" font-weight="700" fill="#0f172a">Obsidian</text>
+      <text x="24" y="120" font-size="20" fill="#475569">Logseq, curadoria</text>
+    </g>
+
+    <g transform="translate(810,180)">
+      <rect width="220" height="170" rx="24" fill="#f8fafc" stroke="#cbd5e1"/>
+      <text x="24" y="48" font-size="18" font-weight="700" fill="#155e75">4. Consulta</text>
+      <text x="24" y="86" font-size="28" font-weight="700" fill="#0f172a">RAG · Chat</text>
+      <text x="24" y="120" font-size="20" fill="#475569">AnythingLLM, Open WebUI</text>
+    </g>
+
+    <g transform="translate(1070,180)">
+      <rect width="160" height="170" rx="24" fill="#eef2ff" stroke="#c7d2fe"/>
+      <text x="20" y="48" font-size="18" font-weight="700" fill="#155e75">5. Código</text>
+      <text x="20" y="86" font-size="28" font-weight="700" fill="#0f172a">VS Code</text>
+      <text x="20" y="120" font-size="20" fill="#475569">Copilot, Python</text>
+    </g>
+
+    <path d="M250 265 H290" stroke="#0891b2" stroke-width="8" stroke-linecap="round"/>
+    <path d="M510 265 H550" stroke="#0891b2" stroke-width="8" stroke-linecap="round"/>
+    <path d="M770 265 H810" stroke="#0891b2" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1030 265 H1070" stroke="#0891b2" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

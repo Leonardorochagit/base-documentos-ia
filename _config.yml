@@ -1,5 +1,5 @@
 title: Base Documentos IA
-description: Portal técnico sobre organização documental, consulta com IA e desenvolvimento
+description: Portal técnico sobre organização documental, ingestão, consulta com IA e desenvolvimento no VS Code
 theme: minima
 markdown: kramdown
 lang: pt-BR
@@ -8,3 +8,4 @@ url: "https://leonardorochagit.github.io"
 header_pages:
   - sobre.md
   - repositorios.md
+plugins: []
