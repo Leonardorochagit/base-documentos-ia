@@ -1,0 +1,10 @@
+title: Base Documentos IA
+description: Portal técnico sobre organização documental, consulta com IA e desenvolvimento
+theme: minima
+markdown: kramdown
+lang: pt-BR
+baseurl: "/base-documentos-ia"
+url: "https://leonardorochagit.github.io"
+header_pages:
+  - sobre.md
+  - repositorios.md

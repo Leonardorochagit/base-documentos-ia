@@ -1,0 +1,46 @@
+---
+---
+@import "minima";
+
+.site-header {
+  border-top: 5px solid #0f766e;
+}
+
+.site-title, .site-title:visited, .page-link, .post-link {
+  color: #0f766e;
+}
+
+.wrapper {
+  max-width: 980px;
+}
+
+.home-hero {
+  padding: 1rem 0 0.5rem 0;
+}
+
+.callout {
+  background: #f0fdfa;
+  border: 1px solid #99f6e4;
+  border-radius: 12px;
+  padding: 1rem 1rem;
+  margin: 1rem 0 1.5rem 0;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem 0;
+}
+
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1rem;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,.04);
+}
+
+.muted {
+  color: #6b7280;
+}
